@@ -261,7 +261,7 @@ export default function Pin() {
         <h3>
           Copyright © 2021 All rights reserved.
           <br />
-          Made by Saumya Garg
+          Made by Amit Kumar
           <br />
         </h3>
       </div>
